@@ -11,8 +11,10 @@ namespace Aint.Domain.Extensions
             if (intToSum < 10)
                 return intToSum;
 
+            //Pluck the right-most digit.
             var sum = intToSum % 10;
 
+            //Add the sum of the remaining digits.
             sum += SumDigitsRecursively(intToSum / 10);
 
             return sum;
