@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Extensions\AnagramExtensions.cs" />
     <Compile Include="Extensions\HtmlEncodingExtensions.cs" />
+    <Compile Include="Extensions\IntegerDigitExtensions.cs" />
     <Compile Include="Extensions\IsOneEditAwayFromExtensions.cs" />
     <Compile Include="Extensions\IsPermutationExtensions.cs" />
     <Compile Include="Extensions\MatrixMazeExtensions.cs" />
