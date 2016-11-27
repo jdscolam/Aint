@@ -47,6 +47,7 @@
     <Compile Include="Extensions\IsPermutationExtensions.cs" />
     <Compile Include="Extensions\MatrixMazeExtensions.cs" />
     <Compile Include="Extensions\MatrixRotationExtensions.cs" />
+    <Compile Include="Extensions\StringToIntExtensions.cs" />
     <Compile Include="Model\MazeNode.cs" />
     <Compile Include="Model\Point.cs" />
     <Compile Include="Extensions\StringSortExtensions.cs" />
