@@ -63,6 +63,7 @@
     <Compile Include="RotateMatrixTests.cs" />
     <Compile Include="StringToIntTests.cs" />
     <Compile Include="SumDigitsTests.cs" />
+    <Compile Include="TopicServiceTests.cs" />
     <Compile Include="TryCompressStringTests.cs" />
   </ItemGroup>
   <ItemGroup>

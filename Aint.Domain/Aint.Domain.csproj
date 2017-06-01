@@ -55,6 +55,8 @@
     <Compile Include="Extensions\TryCompressStringExtensions.cs" />
     <Compile Include="Extensions\UniqueCharacterExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Model\Topic.cs" />
+    <Compile Include="Services\TopicService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
