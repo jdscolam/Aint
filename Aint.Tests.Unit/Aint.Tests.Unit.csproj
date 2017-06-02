@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AllUniqueCharactersTests.cs" />
+    <Compile Include="BinaryTreeTests.cs" />
     <Compile Include="MatrixMazeTests.cs" />
     <Compile Include="AnagramTests.cs" />
     <Compile Include="EncodeSpacesTests.cs" />
